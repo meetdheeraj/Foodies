@@ -1,6 +1,5 @@
-
 import React from 'react';
-
+import SearchComponent from './SearchComponent.jsx';
 
 export default class HomeComponent extends React.Component{
 constructor(){
@@ -11,14 +10,10 @@ render(){
 
 return(
 <div>
-
-<SearchComponent />
-
-
+<SearchComponent/>
 
 </div>
-
 )
-}
 
+}
 }

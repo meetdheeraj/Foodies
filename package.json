@@ -1,7 +1,7 @@
 {
-  "name": "news",
+  "name": "Foodies",
   "version": "0.1.0",
-  "description": "news aggregator",
+  "description": "Foodies App",
   "main": "index.js",
   "scripts": {
     "build": "node node_modules/webpack/bin/webpack.js",
